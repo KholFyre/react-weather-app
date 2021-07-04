@@ -4,6 +4,11 @@
   padding: 16px;
   border-radius: 4px;
   margin: 30px;
+
+  background: url(../src/egor-myznik-yLO8daz0dzA-unsplash.jpg);
+  background-size: cover;
+  display: grid;
+  align-items: center;
 }
 
 .Weather form {
@@ -11,7 +16,7 @@
 }
 
 .Weather h1 {
-  color: #202124;
+  color: #ffffff;
   display: block;
   font-size: 24px;
   font-weight: 100;
@@ -25,7 +30,7 @@
   padding: 0;
 }
 .Weather li {
-  color: #70757a;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -41,14 +46,14 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33, 33);
+  color: #ffffff;
   font-size: 65px;
   line-height: 64px;
   font-weight: 400;
 }
 
 .Weather .unit {
-  color: rgb(33, 33, 33);
+  color: #ffffff;
   font-size: 16px;
   font-weight: 400;
   position: relative;
