@@ -13,8 +13,8 @@ export default function App () {
     <a href="https://github.com/KholFyre/react-weather-app" rel="noreferrer" target="_blank"> open-sourced on Github </a> 
           and {""}
     <a href="https://upbeat-keller-b82650.netlify.app/" rel="noreferrer" target="_blank"> hosted on Netlify. </a> <br/>
-    Photo by Egor Myznik on <a href="https://unsplash.com/@vonshnauzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" 
-    rel="noreferrer" target="_blank" >Unsplash </a>
+    Background photo by Egor Myznik on <a href="https://unsplash.com/@vonshnauzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" 
+    rel="noreferrer" target="_blank" >Unsplash. </a>
     
     </footer>
     </div>
